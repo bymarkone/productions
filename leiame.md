@@ -2,7 +2,7 @@
 [To english version](https://github.com/bymarkone/productions)
 # Workshops, talks and courses I`ve been running
 
-- [Coaching](#coaching)  
+- [*Coaching*](#coaching)  
   - [Coaching, Influencing and Leadership - Talk](#coaching-influencing-and-leadership)
 - [Career](#career)
   - [Building Your Professional Journey - Workshop](#building-your-professional-journey)

@@ -3,7 +3,7 @@
 # Oficinas, palestras e cursos que tenho ensinado
 
 - [*Coaching*](#coaching)  
-  - [*Coaching*, Influência e Liderança - Palestra](#coaching-influencia-e-liderança)
+  - [*Coaching*, Influência e Liderança - Palestra](#coaching-influencia-e-lideranca)
 - [Carreira](#carreira)
   - [Construindo Sua Jornada Profissional - Oficina](#construindo-sua-jornada-profissional)
 - [Técnico](#tecnico)
@@ -15,6 +15,7 @@
 
 # *Coaching*
 
+<div id="coaching-influencia-e-lideranca"/>
 ## *Coaching*, Influência e Liderança
 
 Nesta época multidisciplinar tem exigido de nós que desenvolvamos diferentes aspectos na nossa vida profissional. Raramente é suficiente ser bom em apenas uma coisa. Desde pesquisas como aquelas sobre motivação feitas por pessoas como Maslow, até estudos sobre design organizacional na era da complexidade, todos insistem que o ser humano deve ser visto e desenvolvido em diversos ângulos.

@@ -5,10 +5,10 @@
 - [Coaching](#coaching)  
   - [Coaching, Influencing and Leadership - Talk](#coaching-influencing-and-leadership)
 - [Career](#career)
-  - [Building Your Professional Journey - Workshop](#building-your-professional-journey)
+  - [Building your professional journey - Workshop](#building-your-professional-journey)
 - [Technical](#technical)
-  - [Do legado monolítico à entrega contínua com microservices, REST e Java funcional - Talk](#do-legado-monolitico)
-  - [Javascript e Continuous Delivery - Workshop](#javascript-e-continuous-delivery)
+  - [From monolitic legacy to continuous delivery with microservices, REST and functional Java](#from-monolitic-legacy)
+  - [Javascript and Continuous Delivery - Workshop](#javascript-and-continuous-delivery)
   - [Starting With Angular JS - Course](#starting-with-angular-js)
   - [What If Your Application Could Speak - Talk](#what-if-your-application-could-speak)
   - [The Javascript Toolkit - Talk](#the-javascript-toolkit)
@@ -34,7 +34,7 @@ This is a workshop that has the purporse of laying down an initial career plan f
 
 # Technical
 
-<div id="do-legado-monolitico"/>
+<div id="from-monolitic-legacy"/>
 ## From monolitic legacy to continuous delivery with microservices, REST and functional Java.
 
 Is this talk we share the experience in evolving the system of a big US client of the healthcare market, that processes milions of records of medical products. Starting with a legacy system with caotic database and imcomprehensible code, our responsibility was the raise the system capacity, both in terms of users and functionalities, and at the same time transform its monolitic architecture to one with microservices - using Domain-Driven Design, REST APIs, functional Java and techniques of Continuous Delivery.
@@ -45,7 +45,7 @@ In watching this talk you will be able to see how is possível to turn an coatic
 
 --- 
 
-## Javascript e Continuous Delivery
+## Javascript and Continuous Delivery
 
 While practices like Design Thinking, Lean and Agile are expanding, we developers have been challenged to keep up with the promises made by this practices. Short time to market, adaptability to change, feature selection... all are needs with direct impact in our day to day practices.
 

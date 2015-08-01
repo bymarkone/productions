@@ -1,15 +1,15 @@
 
 [To english version](https://github.com/bymarkone/productions)
-# Oficinas, palestras e cursos que tenho ensinado:
+# Oficinas, palestras e cursos que tenho ensinado
 
 - [*Coaching*](#coaching)  
-  - [*Coaching*, Influência e Liderança - Palestra](#coaching-influencia-e-lideranca)
+  - [*Coaching*, Influência e Liderança - Palestra](#coaching-influencia-e-liderança)
 - [Carreira](#carreira)
   - [Construindo Sua Jornada Profissional - Oficina](#construindo-sua-jornada-profissional)
 - [Técnico](#tecnico)
   - [Do legado monolítico à entrega contínua com microservices, REST e Java funcional - Talk](#do-legado-monolitico)
   - [Javascript e Continuous Delivery - Workshop](#javascript-e-continuous-delivery)
-  - [Começando com Angular JS - Curso](#starting-with-angular-js)
+  - [Começando com Angular JS - Curso](#começando-com-angular-js)
   - [E se sua aplicação falasse? - Palestra](#what-if-your-application-could-speak)
   - [The Javascript Toolkit - Palestra](#the-javascript-toolkit)
 
@@ -62,7 +62,7 @@ Neste tutorial vamos usar uma aplicação de base para demonstrar o uso de vári
 
 --- 
 
-## Starting With Angular JS
+## Começando Com Angular JS
 
 Um curso que intercala conceitos e hands-on que eu ensino na TargetTrust (http://www.targettrust.com.br/busca?s=angular)
 

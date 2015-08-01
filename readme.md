@@ -16,15 +16,16 @@ TRAININGS / WORKSHOPS
 
 # COACHING
 
----
-
 ## Coaching, Influencing and Leadership
 
-  > 
-
+  > Nesta época multidisciplinar tem exigido de nós que desenvolvamos diferentes aspectos na nossa vida profissional. Raramente é suficiente ser bom em apenas uma coisa. Desde pesquisas como aquelas sobre motivação feitas por pessoas como Maslow, até estudos sobre design organizacional na era da complexidade, todos insistem que o ser humano deve ser visto e desenvolvido em diversos ângulos.
+    Na ThoughtWorks, além das coisas mais próximas a nossa função específica (DEVs, QAs, marketing, recruiting, BAs etc.) somos todos, de uma forma ou de outra, consultores. Seja qual for a sua função, sempre há alguém para influenciar e ajudar.
+    Nesta talk vamos falar sobre pontos centrais de três competências relacionadas a consulting (e, na verdade, a muitas outras áreas que envolvem relacionamento com pessoas):
+  1. Coaching; 
+  2. Influencing; 
+  3. Leadership;
+  
 # CAREER
-
---- 
 
 ## Workshop "Planning your professional growth"
 
@@ -32,8 +33,6 @@ TRAININGS / WORKSHOPS
 
 
 # TECHNICAL
-
---- 
 
 ## Do legado monolítico à entrega contínua com microservices, REST e Java funcional
 
@@ -45,17 +44,26 @@ TRAININGS / WORKSHOPS
 
 ## Javascript e Continuous Delivery
 
-  > Description
+  > Enquanto as práticas como Design Thinking, Lean e Agile vão se expandindo, nós desenvolvedores temos sido desafiados a atender a promessas feitas por essas práticas. Velocidade de entregas, facilidade de alteração, seleção de features... são todas necessidades com impacto direto em nossas práticas do dia a dia.
+  Ao mesmo tempo, no mundo JavaScript, temos visto uma explosão de ferramentas e técnicas oferecendo suporte para automatizar e melhorar a velocidade. Além disso, JavaScript se tornou linguagem de primeira classe nas aplicações de Continuous Integration.
+  Neste tutorial vamos usar uma aplicação de base para demonstrar o uso de várias tecnologias JavaScript no contexto de continuous delivery. Alguns tópicos cobertos neste tutorial:
+  - Aproximando desenvolvimento do negócio: por que desenvolvedores têm que se preocupar com automatização, testes, qualidade, integração e entrega contínua?
+  - Possibilidades do mundo JavaScript: quando NodeJS revolucionou o que se pode fazer com JS;
+  - Apresentação da aplicação de exemplo, que ajuda você a decidir se é mesmo econômico ter um carro ou tentar uma combinação de ônibus, táxis e aluguel de veículos.
+  - Automatizando o build com JavaScript: grunt, gulp, npm e mais
+  - Gerenciamento de dependências com Javascript: bower, npm etc.
+  - Testando com JavaScript: karma, jasmine, mocha, chai, sinon.
+  - Bibliotecas para construir aplicações: Angular, Backbone, React JS.
+  - Outros utilitário JS: lodash, q.js, polymer.
 
 --- 
 
 ## AngularJS
 
-  > Description
+  > Um curso que intercala conceitos e hands-on que eu ensino na TargetTrust (http://www.targettrust.com.br/busca?s=angular)
 
 --- 
 
 ## What If Your Application Could Speak
 
-  > 
-
+  > Imagine um time desenvolvendo para um domínio de negócio específico. Usamos linguagens para comunicar com o cliente, a empresa e o time. Também usamos linguagens de programação para desenvolvimento deste software. E ainda, buscamos que o nosso código expresse, não somente sintaxe correta da linguagem, mas o conhecimento próprio do domínio de negócio para o qual estamos desenvolvendo. E se fosse possível capturar o significado do negócio e transformar numa linguagem? Vamos falar sobre DSLs, sua arquitetura, seu uso no negócio e como implementá-las e testá-las.

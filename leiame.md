@@ -10,7 +10,7 @@
   - [Do legado monolítico à entrega contínua com microservices, REST e Java funcional - Talk](#do-legado-monolitico)
   - [Javascript e Continuous Delivery - Workshop](#javascript-e-continuous-delivery)
   - [Começando com Angular JS - Curso](#começando-com-angular-js)
-  - [E se sua aplicação falasse? - Palestra](#what-if-your-application-could-speak)
+  - [E se sua aplicação falasse? - Palestra](#e-se-sua-aplicacao-falasse)
   - [The Javascript Toolkit - Palestra](#the-javascript-toolkit)
 
 # *Coaching*
@@ -29,7 +29,7 @@ Nesta talk vamos falar sobre pontos centrais de três competências relacionadas
   
 # Carreira
 
-## Construindo sua Jornada Profissional 
+## Construindo sua jornada profissional 
 
 Esta workshop tem um propósito de construir um plano de desenvolvimento profissional para cada um dos participantes. Ela combina duas esferas de tomada de decisões - o long e o curto prazo. A primeira é um espaço de incertezas, aspirações e sonhos, e, apesar do longo termo, demanda que algumas decisões seja tomada agora. A segunda, por sua vez, inclui planos, ações e realizações, e é composta de pequenas unidades de atividades que vão fazer que sonhos futuros se realizem. A vida, muito mais que desenvolvimento de software, é dinâmica e instável, e, sendo assim, muitos planos devem ter espaço para adaptação e exceções.
 
@@ -63,12 +63,13 @@ Neste tutorial vamos usar uma aplicação de base para demonstrar o uso de vári
 
 --- 
 
-## Começando Com Angular JS
+## Começando com Angular JS
 
 Um curso que intercala conceitos e hands-on que eu ensino na TargetTrust (http://www.targettrust.com.br/busca?s=angular)
 
 --- 
 
-## What If Your Application Could Speak
+<div id="e-se-sua-aplicacao-falasse"/>
+##E se sua aplicação falasse?
 
 Imagine um time desenvolvendo para um domínio de negócio específico. Usamos linguagens para comunicar com o cliente, a empresa e o time. Também usamos linguagens de programação para desenvolvimento deste software. E ainda, buscamos que o nosso código expresse, não somente sintaxe correta da linguagem, mas o conhecimento próprio do domínio de negócio para o qual estamos desenvolvendo. E se fosse possível capturar o significado do negócio e transformar numa linguagem? Vamos falar sobre DSLs, sua arquitetura, seu uso no negócio e como implementá-las e testá-las.

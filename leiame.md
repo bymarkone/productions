@@ -1,21 +1,21 @@
 
 [To english version](https://github.com/bymarkone/productions)
-# Workshops, talks and courses I`ve been running
+# Oficinas, palestras e cursos que tenho ensinado:
 
 - [*Coaching*](#coaching)  
-  - [Coaching, Influencing and Leadership - Talk](#coaching-influencing-and-leadership)
-- [Career](#career)
-  - [Building Your Professional Journey - Workshop](#building-your-professional-journey)
-- [Technical](#technical)
+  - [*Coaching*, Influência e Liderança - Palestra](#coaching-influencia-e-lideranca)
+- [Carreira](#carreira)
+  - [Construindo Sua Jornada Profissional - Oficina](#construindo-sua-jornada-profissional)
+- [Técnico](#tecnico)
   - [Do legado monolítico à entrega contínua com microservices, REST e Java funcional - Talk](#do-legado-monolitico)
   - [Javascript e Continuous Delivery - Workshop](#javascript-e-continuous-delivery)
-  - [Starting With Angular JS - Course](#starting-with-angular-js)
-  - [What If Your Application Could Speak - Talk](#what-if-your-application-could-speak)
-  - [The Javascript Toolkit - Talk](#the-javascript-toolkit)
+  - [Começando com Angular JS - Curso](#starting-with-angular-js)
+  - [E se sua aplicação falasse? - Palestra](#what-if-your-application-could-speak)
+  - [The Javascript Toolkit - Palestra](#the-javascript-toolkit)
 
-# Coaching
+# *Coaching*
 
-## Coaching, Influencing and Leadership
+## *Coaching*, Influência e Liderança
 
 Nesta época multidisciplinar tem exigido de nós que desenvolvamos diferentes aspectos na nossa vida profissional. Raramente é suficiente ser bom em apenas uma coisa. Desde pesquisas como aquelas sobre motivação feitas por pessoas como Maslow, até estudos sobre design organizacional na era da complexidade, todos insistem que o ser humano deve ser visto e desenvolvido em diversos ângulos.
 
@@ -26,13 +26,13 @@ Nesta talk vamos falar sobre pontos centrais de três competências relacionadas
   2. Influencing; 
   3. Leadership;
   
-# Career
+# Carreira
 
-## Building Your Professional Journey
+## Construindo sua Jornada Profissional 
 
-This is a workshop that has the purporse of laying down an initial career plan for each attendant. It combines two different spheres of decisions - the long and the short term. The first one is the field of uncertainties, aspirations and dreams, and, despite the long time, it demands some decisions to be taken now. The second one is comprehend plans, actions and achievements, and it is composed of small units that will make future dreams possible. Since life, much more than software development, is dynamic and unstable, any plan should include space to adaptation and exceptions.
+Esta workshop tem um propósito de construir um plano de desenvolvimento profissional para cada um dos participantes. Ela combina duas esferas de tomada de decisões - o long e o curto prazo. A primeira é um espaço de incertezas, aspirações e sonhos, e, apesar do longo termo, demanda que algumas decisões seja tomada agora. A segunda, por sua vez, inclui planos, ações e realizações, e é composta de pequenas unidades de atividades que vão fazer que sonhos futuros se realizem. A vida, muito mais que desenvolvimento de software, é dinâmica e instável, e, sendo assim, muitos planos devem ter espaço para adaptação e exceções.
 
-# Technical
+# Tecnico
 
 <div id="do-legado-monolitico"/>
 ## Do legado monolítico à entrega contínua com microservices, REST e Java funcional

@@ -18,8 +18,10 @@
 ## Coaching, Influencing and Leadership
 
 Nesta época multidisciplinar tem exigido de nós que desenvolvamos diferentes aspectos na nossa vida profissional. Raramente é suficiente ser bom em apenas uma coisa. Desde pesquisas como aquelas sobre motivação feitas por pessoas como Maslow, até estudos sobre design organizacional na era da complexidade, todos insistem que o ser humano deve ser visto e desenvolvido em diversos ângulos.
+
 Na ThoughtWorks, além das coisas mais próximas a nossa função específica (DEVs, QAs, marketing, recruiting, BAs etc.) somos todos, de uma forma ou de outra, consultores. Seja qual for a sua função, sempre há alguém para influenciar e ajudar.
-  > Nesta talk vamos falar sobre pontos centrais de três competências relacionadas a consulting (e, na verdade, a muitas outras áreas que envolvem relacionamento com pessoas):
+
+Nesta talk vamos falar sobre pontos centrais de três competências relacionadas a consulting (e, na verdade, a muitas outras áreas que envolvem relacionamento com pessoas):
   1. Coaching; 
   2. Influencing; 
   3. Leadership;
@@ -36,6 +38,7 @@ This is a workshop that has the purporse of laying down an initial career plan f
 ## Do legado monolítico à entrega contínua com microservices, REST e Java funcional
 
 Nessa palestra contamos a experiência em evoluir um sistema de um grande cliente dos EUA da área de healthcare, que processa milhões de registros de produtos hospitalares. Partindo de um legado com base de dados caótica e códigos incompreensíveis, nossa responsabilidade foi aumentar a capacidade do sistema e ao mesmo tempo transformar sua arquitetura monolítica numa arquitetura com microservices – usando Domain-Driven Design, APIs REST, Java funcional e técnicas de Continuous Delivery.
+
 Contamos essa experiência destacando os passos para refatorar uma arquitetura tradicional para Domain-Driven Design, os benefícios do DDD, e como se pode, com pequenos passos, organizar o código na direção de microservices. Mostramos os benefícios que microservices trouxeram nesse projeto e como ajudam a baixar custos. E investigamos benefícios para implementar um design funcional, incluindo prevenção de bugs, redução de inconsistências de estados e aumento de legibilidade de código.
 Ao assistir essa palestra você irá enxergar como é possível migrar de um cenário caótico para um mais seguro e evolutivo – e também se inspirar em nossa experiência para aplicar mudanças nos seus sistemas legados.
 
@@ -44,8 +47,10 @@ Ao assistir essa palestra você irá enxergar como é possível migrar de um cen
 ## Javascript e Continuous Delivery
 
 Enquanto as práticas como Design Thinking, Lean e Agile vão se expandindo, nós desenvolvedores temos sido desafiados a atender a promessas feitas por essas práticas. Velocidade de entregas, facilidade de alteração, seleção de features... são todas necessidades com impacto direto em nossas práticas do dia a dia.
+
 Ao mesmo tempo, no mundo JavaScript, temos visto uma explosão de ferramentas e técnicas oferecendo suporte para automatizar e melhorar a velocidade. Além disso, JavaScript se tornou linguagem de primeira classe nas aplicações de Continuous Integration.
-  Neste tutorial vamos usar uma aplicação de base para demonstrar o uso de várias tecnologias JavaScript no contexto de continuous delivery. Alguns tópicos cobertos neste tutorial:
+
+Neste tutorial vamos usar uma aplicação de base para demonstrar o uso de várias tecnologias JavaScript no contexto de continuous delivery. Alguns tópicos cobertos neste tutorial:
   - Aproximando desenvolvimento do negócio: por que desenvolvedores têm que se preocupar com automatização, testes, qualidade, integração e entrega contínua?
   - Possibilidades do mundo JavaScript: quando NodeJS revolucionou o que se pode fazer com JS;
   - Apresentação da aplicação de exemplo, que ajuda você a decidir se é mesmo econômico ter um carro ou tentar uma combinação de ônibus, táxis e aluguel de veículos.

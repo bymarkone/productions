@@ -1,5 +1,5 @@
 
-[Para versão em português](https://github.com/bymarkone/productions/leiame.md)
+[To english version](https://github.com/bymarkone/productions)
 # Workshops, talks and courses I`ve been running
 
 - [Coaching](#coaching)  

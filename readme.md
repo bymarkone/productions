@@ -1,5 +1,5 @@
 
-[Para versão em português](https://github.com/bymarkone/productions/leiame.md)
+[Para versão em português](https://github.com/bymarkone/productions/blob/master/leiame.md)
 # Workshops, talks and courses I`ve been running
 
 - [Coaching](#coaching)  
@@ -17,11 +17,11 @@
 
 ## Coaching, Influencing and Leadership
 
-Nesta época multidisciplinar tem exigido de nós que desenvolvamos diferentes aspectos na nossa vida profissional. Raramente é suficiente ser bom em apenas uma coisa. Desde pesquisas como aquelas sobre motivação feitas por pessoas como Maslow, até estudos sobre design organizacional na era da complexidade, todos insistem que o ser humano deve ser visto e desenvolvido em diversos ângulos.
+This multidisciplinary age is demanding that we develop different aspects in our professional life. Rarely is enough to do only one thing well. From several researchs on people motivation like that one did by Maslow, to studies on organizational design in the complexity age, all insist that human beings should be saw and developed in several angles.
 
-Na ThoughtWorks, além das coisas mais próximas a nossa função específica (DEVs, QAs, marketing, recruiting, BAs etc.) somos todos, de uma forma ou de outra, consultores. Seja qual for a sua função, sempre há alguém para influenciar e ajudar.
+At ThoughtWorks, other than the things closer to our specific roles (DEVs, QAs, marketing, recruiting, BAs etc.), we are all, in a way or another, consultants. Whatever the roles you play, there is always someone to influence and support.
 
-Nesta talk vamos falar sobre pontos centrais de três competências relacionadas a consulting (e, na verdade, a muitas outras áreas que envolvem relacionamento com pessoas):
+In this talk we are going to talk about key points on three competences related with consulting (and, truthly, with many other areas that is related to people): 
   1. Coaching; 
   2. Influencing; 
   3. Leadership;
@@ -35,39 +35,40 @@ This is a workshop that has the purporse of laying down an initial career plan f
 # Technical
 
 <div id="do-legado-monolitico"/>
-## Do legado monolítico à entrega contínua com microservices, REST e Java funcional
+## From monolitic legacy to continuous delivery with microservices, REST and functional Java.
 
-Nessa palestra contamos a experiência em evoluir um sistema de um grande cliente dos EUA da área de healthcare, que processa milhões de registros de produtos hospitalares. Partindo de um legado com base de dados caótica e códigos incompreensíveis, nossa responsabilidade foi aumentar a capacidade do sistema e ao mesmo tempo transformar sua arquitetura monolítica numa arquitetura com microservices – usando Domain-Driven Design, APIs REST, Java funcional e técnicas de Continuous Delivery.
+Is this talk we share the experience in evolving the system of a big US client of the healthcare market, that processes milions of records of medical products. Starting with a legacy system with caotic database and imcomprehensible code, our responsibility was the raise the system capacity, both in terms of users and functionalities, and at the same time transform its monolitic architecture to one with microservices - using Domain-Driven Design, REST APIs, functional Java and techniques of Continuous Delivery.
 
-Contamos essa experiência destacando os passos para refatorar uma arquitetura tradicional para Domain-Driven Design, os benefícios do DDD, e como se pode, com pequenos passos, organizar o código na direção de microservices. Mostramos os benefícios que microservices trouxeram nesse projeto e como ajudam a baixar custos. E investigamos benefícios para implementar um design funcional, incluindo prevenção de bugs, redução de inconsistências de estados e aumento de legibilidade de código.
-Ao assistir essa palestra você irá enxergar como é possível migrar de um cenário caótico para um mais seguro e evolutivo – e também se inspirar em nossa experiência para aplicar mudanças nos seus sistemas legados.
+We will tell our experience highlighting the steps we did to refactor a tradition architecture to Domain-Driven Desing, the benefits of DDD, and how, with little steps, organize the code in the direction of microservices. We will show the benefits Microservices brought to this project and how it helped to lower the costs. We alse will investifate the benefits in implementing a functional design, including preventing bugs, reducing state inconsistencias are raising code readability.
+
+In watching this talk you will be able to see how is possível to turn an coatic scenario to one more change-safe and evolutive - and also be inspired by our experience to apply changes like these also in our legacy systems.
 
 --- 
 
 ## Javascript e Continuous Delivery
 
-Enquanto as práticas como Design Thinking, Lean e Agile vão se expandindo, nós desenvolvedores temos sido desafiados a atender a promessas feitas por essas práticas. Velocidade de entregas, facilidade de alteração, seleção de features... são todas necessidades com impacto direto em nossas práticas do dia a dia.
+While practices like Design Thinking, Lean and Agile are expanding, we developers have been challenged to keep up with the promises made by this practices. Short time to market, adaptability to change, feature selection... all are needs with direct impact in our day to day practices.
 
-Ao mesmo tempo, no mundo JavaScript, temos visto uma explosão de ferramentas e técnicas oferecendo suporte para automatizar e melhorar a velocidade. Além disso, JavaScript se tornou linguagem de primeira classe nas aplicações de Continuous Integration.
+At the same time, in the Javascript world, we are seing an explosion of tools and techniques offering support to automate, and speed up software processes. In addition to that, Javascript has become a first-class language in Continuous Integration Applications, allowing front-end codebases to grow and split among different teams.
 
-Neste tutorial vamos usar uma aplicação de base para demonstrar o uso de várias tecnologias JavaScript no contexto de continuous delivery. Alguns tópicos cobertos neste tutorial:
-  - Aproximando desenvolvimento do negócio: por que desenvolvedores têm que se preocupar com automatização, testes, qualidade, integração e entrega contínua?
-  - Possibilidades do mundo JavaScript: quando NodeJS revolucionou o que se pode fazer com JS;
-  - Apresentação da aplicação de exemplo, que ajuda você a decidir se é mesmo econômico ter um carro ou tentar uma combinação de ônibus, táxis e aluguel de veículos.
-  - Automatizando o build com JavaScript: grunt, gulp, npm e mais
-  - Gerenciamento de dependências com Javascript: bower, npm etc.
-  - Testando com JavaScript: karma, jasmine, mocha, chai, sinon.
-  - Bibliotecas para construir aplicações: Angular, Backbone, React JS.
-  - Outros utilitário JS: lodash, q.js, polymer.
+In this tutorial we are going to use a base application to show the use of several JavaScript technologies in the context of Continuous Delivery. Some tópics included in this tutorial are:
+  - Approaching business and software development: why do developers have to care about automation, testing, quality, integragion and continuous delivery?
+  - The possibilities of the JavaScript world: when NodeJS revolutionized what is possible to be done with JavaScript.
+  - Build automation with Javascript: grunt, gulp, npm and more.
+  - Managing dependencies: Bower, NPM etc.
+  - Testing JavaScript applications: Karma, Jasmine, Mocha, Chai, Sinon etc.
+  - Libraries to build applications: Angular, Backbone and React.
+  - Other JS utilities: lodash, q.js, polymer etc.
 
 --- 
 
 ## Starting With Angular JS
 
-Um curso que intercala conceitos e hands-on que eu ensino na TargetTrust (http://www.targettrust.com.br/busca?s=angular)
+A course that mixes theory and hands-on on the basics of developing angular applications (http://www.targettrust.com.br/busca?s=angular)
 
 --- 
 
 ## What If Your Application Could Speak
 
-Imagine um time desenvolvendo para um domínio de negócio específico. Usamos linguagens para comunicar com o cliente, a empresa e o time. Também usamos linguagens de programação para desenvolvimento deste software. E ainda, buscamos que o nosso código expresse, não somente sintaxe correta da linguagem, mas o conhecimento próprio do domínio de negócio para o qual estamos desenvolvendo. E se fosse possível capturar o significado do negócio e transformar numa linguagem? Vamos falar sobre DSLs, sua arquitetura, seu uso no negócio e como implementá-las e testá-las.
+Imagine a team developing for an specific business domain. We use languages to communicate with client, company and team. We also use programming languages to develop the system. And still, we aim that our code express, not only the correct syntax of the language, but knowledge that is proper to the business domain we are dealing with. And if it was possible to capture the meaning of the business and transform it in a language? We are going to talk about DSLs, its architecture and business use, and also how to implement and test them.
+

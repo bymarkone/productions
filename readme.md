@@ -3,15 +3,15 @@
 [Em português](https://github.com/bymarkone/productions/leiame.md)
 
 - [Coaching](#coaching)  
-  - [Coaching, Influencing and Leadership](#coaching-influencing-and-leadership)
+  - [Coaching, Influencing and Leadership - Talk](#coaching-influencing-and-leadership)
 - [Career](#career)
-  - [Workshop "Building Your Professional Journey"](#building-your-professional-journey)
+  - [Building Your Professional Journey - Workshop](#building-your-professional-journey)
 - [Technical](#technical)
-  - [Do legado monolítico à entrega contínua com microservices, REST e Java funcional](#do-legado-monolitico-a-entrega-continua)
-  - [Javascript e Continuous Delivery](#javascript-e-continuous-delivery)
-  - [Starting With Angular JS](#starting-with-angular-js)
-  - [What If Your Application Could Speak](#what-if-your-application-could-speak)
-  - [The Javascript Toolkit](#the-javascript-toolkit)
+  - [Do legado monolítico à entrega contínua com microservices, REST e Java funcional - Talk](#do-legado-monolitico-a-entrega-continua-com-microservices-rest-e-java-funcional)
+  - [Javascript e Continuous Delivery - Workshop](#javascript-e-continuous-delivery)
+  - [Starting With Angular JS - Course](#starting-with-angular-js)
+  - [What If Your Application Could Speak - Talk](#what-if-your-application-could-speak)
+  - [The Javascript Toolkit - Talk](#the-javascript-toolkit)
 
 # Coaching
 
@@ -26,7 +26,7 @@
   
 # Career
 
-## Workshop "Planning your professional growth"
+## Building Your Professional Journey
 
   > This is a workshop that has the purporse of laying down an initial career plan for each attendant. It combines two different spheres of decisions - the long and the short term. The first one is the field of uncertainties, aspirations and dreams, and, despite the long time, it demands some decisions to be taken now. The second one is comprehend plans, actions and achievements, and it is composed of small units that will make future dreams possible. Since life, much more than software development, is dynamic and unstable, any plan should include space to adaptation and exceptions.
 
